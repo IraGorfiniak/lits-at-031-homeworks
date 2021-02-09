@@ -1,0 +1,11 @@
+> child = document.getElementById('header_wraper').children;
+
+> var child = document.getElementById('header_wraper').children; var i; for (i =0; i<child.length;i++) {child[i].style.backgroundColor = 'green';}
+
+> document.getElementById('header_wraper').nextSibling
+
+>list = document.getElementsByClassName('col-sm-4 col-xs-12 school_item')[0]; list.getElementsByClassName('school_title')[0].innerText = "IRYNA";
+
+> document.getElementsByName('RegistrationUser[ruType]').length
+
+> document.getElementsByTagName('div').accordion
