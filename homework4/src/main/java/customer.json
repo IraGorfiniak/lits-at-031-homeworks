@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "name": "Valentyn Ivanenko",
+  "age": 32,
+  "address": {
+    "street": "Levandivska 5a",
+    "city": "Lviv",
+    "zipcode": 79025
+  },
+  "phoneNumbers": [
+    "+38 (067) 960-20-85",
+  "+38 (068) 958-88-44"
+  ],
+  "personalInformation": {
+    "gender": "Male",
+    "maritialstatus": "Married"
+  }
+}
